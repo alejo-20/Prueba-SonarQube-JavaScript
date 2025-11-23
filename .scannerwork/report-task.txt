@@ -1,6 +1,0 @@
-projectKey=badcalc-react-hidden
-serverUrl=http://localhost:9000
-serverVersion=25.10.0.114319
-dashboardUrl=http://localhost:9000/dashboard?id=badcalc-react-hidden
-ceTaskId=ba22b68f-93df-46b1-9dd2-713494fd045d
-ceTaskUrl=http://localhost:9000/api/ce/task?id=ba22b68f-93df-46b1-9dd2-713494fd045d
